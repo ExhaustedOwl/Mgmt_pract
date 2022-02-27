@@ -1,0 +1,13 @@
+name: Mgmt_pract
+title: Mgmt_pract
+username:
+account: lucasc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1817838
+bundleId: 3025315
+url: https://lucasc.shinyapps.io/Mgmt_pract/
+when: 1587096461.40407
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: rcode.R|temp files/decomp graph.R|temp files/decomp graph2.R

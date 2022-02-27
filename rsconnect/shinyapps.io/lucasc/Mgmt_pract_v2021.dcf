@@ -1,0 +1,14 @@
+name: Mgmt_pract_v2021
+title: Mgmt_pract_v2021
+username:
+account: lucasc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4795302
+bundleId: 5622042
+url: https://lucasc.shinyapps.io/Mgmt_pract_v2021/
+when: 1645943520.03982
+lastSyncTime: 1645943520.03982
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|agg_change.R|ind_decomp.R|ind_decomp2.R|ind_pract.R|industry_decomp.R|rcode.R|temp files/decomp graph.R|temp files/decomp graph2.R|temp files/test.R
